@@ -214,3 +214,24 @@
 [submodule "app/xrandr"]
 	path = app/xrandr
 	url = git://anongit.freedesktop.org/git/xorg/app/xrandr
+[submodule "xkeyboard-config"]
+	path = xkeyboard-config
+	url = git://anongit.freedesktop.org/xkeyboard-config
+[submodule "xserver"]
+	path = xserver
+	url = git://anongit.freedesktop.org/xorg/xserver
+[submodule "xcb/libxcb"]
+	path = xcb/libxcb
+	url = git://anongit.freedesktop.org/xcb/libxcb
+[submodule "xcb/proto"]
+	path = xcb/proto
+	url = git://anongit.freedesktop.org/xcb/proto
+[submodule "xcb/util"]
+	path = xcb/util
+	url = git://anongit.freedesktop.org/xcb/util
+[submodule "pixman"]
+	path = pixman
+	url = git://anongit.freedesktop.org/pixman
+[submodule "pthreads-win32-cmakebuild"]
+	path = pthreads-win32-cmakebuild
+	url = git://github.com/vance-group/pthreads-win32-cmakebuild.git
