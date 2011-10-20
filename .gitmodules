@@ -1,0 +1,216 @@
+[submodule "proto/x11proto"]
+	path = proto/x11proto
+	url = git://anongit.freedesktop.org/git/xorg/proto/x11proto
+[submodule "proto/bigreqsproto"]
+	path = proto/bigreqsproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/bigreqsproto
+[submodule "proto/compositeproto"]
+	path = proto/compositeproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/compositeproto
+[submodule "proto/fontsproto"]
+	path = proto/fontsproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/fontsproto
+[submodule "proto/glproto"]
+	path = proto/glproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/glproto
+[submodule "proto/inputproto"]
+	path = proto/inputproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/inputproto
+[submodule "proto/kbproto"]
+	path = proto/kbproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/kbproto
+[submodule "proto/recordproto"]
+	path = proto/recordproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/recordproto
+[submodule "proto/renderproto"]
+	path = proto/renderproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/renderproto
+[submodule "proto/xcmiscproto"]
+	path = proto/xcmiscproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xcmiscproto
+[submodule "proto/xextproto"]
+	path = proto/xextproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xextproto
+[submodule "proto/windowswmproto"]
+	path = proto/windowswmproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/windowswmproto
+[submodule "proto/xf86driproto"]
+	path = proto/xf86driproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86driproto
+[submodule "proto/randrproto"]
+	path = proto/randrproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/randrproto
+[submodule "proto/fixesproto"]
+	path = proto/fixesproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/fixesproto
+[submodule "proto/damageproto"]
+	path = proto/damageproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/damageproto
+[submodule "proto/resourceproto"]
+	path = proto/resourceproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/resourceproto
+[submodule "proto/videoproto"]
+	path = proto/videoproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/videoproto
+[submodule "proto/scrnsaverproto"]
+	path = proto/scrnsaverproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/scrnsaverproto
+[submodule "proto/xineramaproto"]
+	path = proto/xineramaproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xineramaproto
+[submodule "proto/evieproto"]
+	path = proto/evieproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/evieproto
+[submodule "lib/libxtrans"]
+	path = lib/libxtrans
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxtrans
+[submodule "lib/libXdmcp"]
+	path = lib/libXdmcp
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXdmcp
+[submodule "lib/libXau"]
+	path = lib/libXau
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXau
+[submodule "lib/libX11"]
+	path = lib/libX11
+	url = git://anongit.freedesktop.org/git/xorg/lib/libX11
+[submodule "lib/libXpm"]
+	path = lib/libXpm
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXpm
+[submodule "lib/libxkbfile"]
+	path = lib/libxkbfile
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxkbfile
+[submodule "lib/libfontenc"]
+	path = lib/libfontenc
+	url = git://anongit.freedesktop.org/git/xorg/lib/libfontenc
+[submodule "lib/libXfont"]
+	path = lib/libXfont
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXfont
+[submodule "lib/libXext"]
+	path = lib/libXext
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXext
+[submodule "lib/libXtst"]
+	path = lib/libXtst
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXtst
+[submodule "lib/libICE"]
+	path = lib/libICE
+	url = git://anongit.freedesktop.org/git/xorg/lib/libICE
+[submodule "lib/libSM"]
+	path = lib/libSM
+	url = git://anongit.freedesktop.org/git/xorg/lib/libSM
+[submodule "lib/libXt"]
+	path = lib/libXt
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXt
+[submodule "lib/libXmu"]
+	path = lib/libXmu
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXmu
+[submodule "lib/libXaw"]
+	path = lib/libXaw
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXaw
+[submodule "lib/libXrender"]
+	path = lib/libXrender
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXrender
+[submodule "lib/libWindowsWM"]
+	path = lib/libWindowsWM
+	url = git://anongit.freedesktop.org/git/xorg/lib/libWindowsWM
+[submodule "lib/libXi"]
+	path = lib/libXi
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXi
+[submodule "lib/libXinerama"]
+	path = lib/libXinerama
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXinerama
+[submodule "lib/libXrandr"]
+	path = lib/libXrandr
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXrandr
+[submodule "app/xkbcomp"]
+	path = app/xkbcomp
+	url = git://anongit.freedesktop.org/git/xorg/app/xkbcomp
+[submodule "app/ico"]
+	path = app/ico
+	url = git://anongit.freedesktop.org/git/xorg/app/ico
+[submodule "app/mkfontscale"]
+	path = app/mkfontscale
+	url = git://anongit.freedesktop.org/git/xorg/app/mkfontscale
+[submodule "app/oclock"]
+	path = app/oclock
+	url = git://anongit.freedesktop.org/git/xorg/app/oclock
+[submodule "app/setxkbmap"]
+	path = app/setxkbmap
+	url = git://anongit.freedesktop.org/git/xorg/app/setxkbmap
+[submodule "app/xauth"]
+	path = app/xauth
+	url = git://anongit.freedesktop.org/git/xorg/app/xauth
+[submodule "app/xdpyinfo"]
+	path = app/xdpyinfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xdpyinfo
+[submodule "app/xev"]
+	path = app/xev
+	url = git://anongit.freedesktop.org/git/xorg/app/xev
+[submodule "app/xeyes"]
+	path = app/xeyes
+	url = git://anongit.freedesktop.org/git/xorg/app/xeyes
+[submodule "app/xhost"]
+	path = app/xhost
+	url = git://anongit.freedesktop.org/git/xorg/app/xhost
+[submodule "app/xlsatoms"]
+	path = app/xlsatoms
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsatoms
+[submodule "app/xlsclients"]
+	path = app/xlsclients
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsclients
+[submodule "app/xlsfonts"]
+	path = app/xlsfonts
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsfonts
+[submodule "app/xmodmap"]
+	path = app/xmodmap
+	url = git://anongit.freedesktop.org/git/xorg/app/xmodmap
+[submodule "app/xprop"]
+	path = app/xprop
+	url = git://anongit.freedesktop.org/git/xorg/app/xprop
+[submodule "app/xset"]
+	path = app/xset
+	url = git://anongit.freedesktop.org/git/xorg/app/xset
+[submodule "app/xsetroot"]
+	path = app/xsetroot
+	url = git://anongit.freedesktop.org/git/xorg/app/xsetroot
+[submodule "app/xwininfo"]
+	path = app/xwininfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xwininfo
+[submodule "app/xclock"]
+	path = app/xclock
+	url = git://anongit.freedesktop.org/git/xorg/app/xclock
+[submodule "app/xcalc"]
+	path = app/xcalc
+	url = git://anongit.freedesktop.org/git/xorg/app/xcalc
+[submodule "app/xlogo"]
+	path = app/xlogo
+	url = git://anongit.freedesktop.org/git/xorg/app/xlogo
+[submodule "app/twm"]
+	path = app/twm
+	url = git://anongit.freedesktop.org/git/xorg/app/twm
+[submodule "app/xkill"]
+	path = app/xkill
+	url = git://anongit.freedesktop.org/git/xorg/app/xkill
+[submodule "app/appres"]
+	path = app/appres
+	url = git://anongit.freedesktop.org/git/xorg/app/appres
+[submodule "app/editres"]
+	path = app/editres
+	url = git://anongit.freedesktop.org/git/xorg/app/editres
+[submodule "app/listres"]
+	path = app/listres
+	url = git://anongit.freedesktop.org/git/xorg/app/listres
+[submodule "app/viewres"]
+	path = app/viewres
+	url = git://anongit.freedesktop.org/git/xorg/app/viewres
+[submodule "app/xfontsel"]
+	path = app/xfontsel
+	url = git://anongit.freedesktop.org/git/xorg/app/xfontsel
+[submodule "app/xmessage"]
+	path = app/xmessage
+	url = git://anongit.freedesktop.org/git/xorg/app/xmessage
+[submodule "app/bitmap"]
+	path = app/bitmap
+	url = git://anongit.freedesktop.org/git/xorg/app/bitmap
+[submodule "app/xrandr"]
+	path = app/xrandr
+	url = git://anongit.freedesktop.org/git/xorg/app/xrandr
